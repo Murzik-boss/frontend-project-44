@@ -43,3 +43,4 @@ function goGame() {
   }
 }
 goGame();
+export default goGame;
